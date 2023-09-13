@@ -1,0 +1,189 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+}
+
+footer {
+    margin: 0;
+}
+
+h1 {
+    font-size: 5em;
+    color: #8FBABF;
+    font-family: 'Abril Fatface';
+}
+
+h2 {
+    font-size: 3.5em;
+    color: #f9c806;
+    font-family: 'acme';
+}
+
+h3 {
+    color : white;
+    font-size: 1.7em;
+}
+
+p {
+    color: black;
+    margin: 0;
+    padding: 20px;
+    font-size: 1.2em
+
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 20px;
+  }
+
+nav img {
+    width: 80px;
+}
+  
+nav a {
+    margin-left: 30px;
+    color: #b18e03;
+    font-family: 'Courier New';
+}
+
+nav .active {
+    color: grey;
+}
+
+nav a:hover {
+    margin-left: 30px;
+    color: black;
+}
+
+.fond_pleine_largeur {
+    background: #8a4278;
+    height: 450px;
+    padding: 50px;
+    margin-bottom: 400px;
+
+}
+
+.reservation img {
+    position: relative;
+    margin: 0;
+    bottom : -100px;
+    right: 100px;
+    width: 60%;
+
+}
+
+.reservation {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+
+.text_accueil {
+    padding: 50px;
+    width: 30%;
+}
+
+.fond_80_gauche {
+    position: relative;
+    background: #f2f2f2;
+    width: 80%;
+    height: 400px;
+    bottom: 270px;
+    left: 80px;
+    z-index: -1;
+}
+
+.text_labels img{
+    position: relative;
+    padding-top: 280px;
+    padding-left: 70px;
+    width: 100px;
+    bottom: 0;
+}
+
+.fond_80_gauche_sup {
+    background: #8a4278;
+    width: 80%;
+    z-index: 2;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+
+.text_potions {
+    padding-right: 50px;
+    padding-left: 200px;
+    padding-bottom: 50px;;
+    width: 100%;
+
+}
+
+.text_potions h2 {
+    padding-top: 30px;
+
+}
+
+.text_potions p {
+    color: white;
+    padding-left: 0;
+}
+
+
+.fond_80_gauche_sup img {
+    position: relative;
+    height: 400px;
+    bottom: 70px;
+    left : 300px;
+}
+
+.bloc_80_droite {
+    display: flex;
+}
+
+.bloc_blanc {
+    background-color: none;
+    width: 20%;
+    height: 700px;
+}
+
+.fond_80_droite {
+    background: #8a4278;
+    width: 80%;
+    height: 700px;
+    margin-bottom: 300px;
+}
+
+.fond_80_droite h2 {
+    padding-top: 200px;
+    padding-right: 50px;
+    text-align: right;
+}
+
+.bloc_blanc img {
+    position: relative;
+}
+
+.demo1 {
+    width: 500px;
+    top: -50px;
+    left: 70px;
+}
+
+.demo2 {
+    height: 250px;
+    left: 120%;
+    top: 30px;
+}
+
+.demo3 {
+    position: relative;
+    height: 350px;
+    left: 68%;
+    top: 50px;
+}

@@ -1,0 +1,259 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+}
+
+footer {
+    margin: 0;
+}
+
+h1 {
+    font-size: 5em;
+    color: #8FBABF;
+    font-family: 'Abril Fatface';
+}
+
+h2 {
+    font-size: 2.5em;
+    color: #8FBABF;
+    font-family: 'Barlow Condensed';
+}
+
+p {
+    color: black;
+    margin: 0;
+    padding: 20px;
+
+}
+
+
+.header {
+    background-image: url("images/bandeau-couverture.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    padding: 200px;
+    margin-top: 0;
+
+}
+
+.header h1 {
+    color:white;
+    text-align: center;
+}
+.header h2 {
+    color:yellow;
+    text-align: center;
+}
+
+.portrait {
+    display: flex;
+    flex-wrap: wrap; 
+    flex-direction: row;
+    width: 70%;
+    justify-content: space-around;
+    margin:auto;
+
+}
+
+.portrait img {
+    width: 300px;
+    border-radius: 50%;
+    box-shadow: 6px 6px 5px #8FBABF;
+    padding: 0px;
+}
+
+.portrait p {
+    width: 500px;
+    padding: 0px;
+}
+
+.conteneur-noir {
+    background:#000000;
+    padding: 100px;
+}
+
+.conteneur-noir p {
+    color: white;
+    padding-bottom: 10px;
+}
+
+.conteneur-noir h2 {
+    padding-top: 20px;
+    text-align: start;
+}
+
+.conteneur-noir2 {
+    background:#000000;
+    padding: 40px;
+}
+
+.conteneur-noir2 p {
+    color: white;
+    width: 400px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 10px;
+}
+
+.conteneur-noir2 h2 {
+    padding-top: 10px;
+    padding-left: 30px;
+    text-align: center;
+}
+
+.conteneur-blanc {
+    background-color: rgb(65, 65, 65);
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.conteneur-blanc h2 {
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.conteneur-blanc p {
+    color: white;
+    text-align: justify;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.conteneur-footer {
+    background-color: #8FBABF;
+    padding: 50px;
+}
+.conteneur-footer h2 {
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.conteneur-footer p {
+    color: white;
+    text-align: justify;
+    padding-top: 20px;
+    padding-left: 200px;
+}
+
+.prestas {
+    display: flex;
+    flex-wrap: wrap; 
+    flex-direction: row;
+    width: 90%;
+    justify-content: center;
+    margin: auto;
+    gap: 50px;
+}
+
+.bloc-bleu img, 
+.bloc-vert img {
+    width: 260px;
+    border-radius: 37% 63% 33% 67% / 61% 36% 64% 39%;
+    padding: 0px;
+    padding-top: 40px;
+    margin-left: 90px;
+    
+
+}
+
+.bloc-bleu {
+    width: 450px;
+    background-color:#8FBABF;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+.bloc-vert {
+    width: 450px;
+    background-color: #BCBF60;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+/*.portefolio img {
+    width: 400px;
+    padding: 10px;
+    border-radius: 10%;
+}
+.portefolio {
+    display: flex;
+    flex-wrap: wrap; 
+    flex-direction: row;
+    justify-content: space-around;
+    margin: auto;
+
+}*/
+
+/*.portefolio img:hover{
+    -ms-transform: scale(1.2); 
+    -webkit-transform: scale(1.2); 
+    transform: scale(1.5);
+} Decommenter pour agrandir les images au survol*/
+
+.box {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 20px;
+}
+
+.portefolio {
+    display: grid;
+    grid-template: 400px 400px 400px 400px 400px / 1fr 1fr 1fr ;
+    gap: 40px;
+}
+.nom-jardinone {
+    grid-column: 1 / 3;
+    position: relative;
+}
+
+.nom-jardin2 {
+    grid-column-start: 3;
+    grid-row: 1/3;
+    position: relative;
+}
+.nom-jardin5 {
+    grid-column: 1/3;
+    grid-row: 3/5;
+    position: relative;
+}
+
+.nom-jardin9 {
+    grid-column: 2/4;
+    grid-row: 5;
+    position: relative;
+}
+
+.photo-hover {
+    position: absolute;
+    color: white;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    font-size: 1.5em;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 0.7);
+    display: none;
+    padding: 10px;
+}
+
+
+
+
+.nom-jardinone:hover .photo-hover, 
+.nom-jardin2:hover .photo-hover, 
+.nom-jardin5:hover .photo-hover,
+.nom-jardin9:hover .photo-hover {
+  display: flex;
+}

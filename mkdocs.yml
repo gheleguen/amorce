@@ -1,0 +1,22 @@
+site_name: amorce
+nav:
+    - Introduction: index.md
+    - Guide outil de maquettage: 2_maquettage/process_maquettage.md
+    - Templates: 3_templates/templates_doc.md
+    - Ax. Annexes: 
+      - Conception outil de maquettage: 2_maquettage/notes_conception.md
+        
+theme:
+    name: material
+    palette:
+      primary: yellow
+
+plugins:
+  - search
+
+markdown_extensions:
+    - smarty
+    - sane_lists
+    - admonition
+    - toc:
+        permalink: true
