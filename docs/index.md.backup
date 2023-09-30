@@ -1,3 +1,38 @@
 # L'Amorce
 
-Un projet de permanence pour l'aiguillage au usage du web. Destiné aux entrepreneurs et porteurs.eus
+Le projet Amorce est une processus d'accompagnement des entrepreneur.euse.s et porteur.euse.s de projets à l'appropriation et l'autonomisation sur le web. 
+
+Les outils que nous développons sont délivrés en open source (cc-by-nc-sa). Ce qui ne seront pas le cas des guides d'utilisations. 
+
+Pour nous faire intervenir, nous vous invitons à nous contacter. 
+
+Le site web n'est pas encore en ligne. Pour plus d'info contactez Guillaume Leguen : hello[at]guillaumeleguen.xyz
+
+
+
+## 1/ Toutes les clés pour se lancer
+
+### 1.1 Télécharger l'archive
+
+Avant toute chose, [télécharger l'archive du projet](https://github.com/gheleguen/amorce/archive/refs/heads/main.zip). C'est dans ce dossier que se trouve tous les fichiers de doicumantations mais aussi les fichiers de découpes ou les modèles d'impression 3D. 
+
+
+**Ou passer par Git Hub**
+
+Se rendre dans le [git hub](https://github.com/gheleguen/amorce.git) et télécharger l'archive complète du projet. 
+
+**Ou en lignes de commandes**
+
+ - Ouvrir un terminal linux,
+ - Si ce n'est pas déjà fait installer ```git``` : <pre>sudo apt install git</pre>
+ - Se placer dans le dossier de votre ordinateur où vous souhaitez installer enregistrer l'archive.
+ - Cloner l'archive : <pre>git clone https://github.com/gheleguen/amorce.git</pre> 
+
+
+### 1.2 L'arborescence de l'archive
+
+ - **docs :** Est le dossier qui contient les documents et images qui constituent la documentation.  Ce sont des fichiers marckdown (.md) que l'on peut ouvrir avec un éditeur de texte.
+
+ - **Laser-cuts :** Le dossier qui contient les fichiers de découpe laser (fichiers vectoriels)...  
+ -  -**Laser-cuts :** Le dossier qui contient les fichiers de découpe laser (fichiers vectoriels)...  
+

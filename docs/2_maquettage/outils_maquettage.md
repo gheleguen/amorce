@@ -16,7 +16,7 @@ Vous avez sans doute déjà utilisé un normographe durant votre enfance. Il s'a
 
 Dans notre cas, nous cherchons à donner la possibilité de découper des formes dont les dimensions par rapport à une feuille A3, seraient proportionnelle à ce que l'on peut voir à un écran. Les dimensions indiqués sur ces normographes sont en pixels et sont calculés par rapport à un écran de référence (indiqué en haut).
 
-
+![normographes_1.jpg](images/normographes_1.jpg)
 
 ### 1.2 Matériel
 **Rassembler le matériel suivant : **
@@ -38,5 +38,5 @@ Dans notre cas, nous cherchons à donner la possibilité de découper des formes
 
 ## 2. Les gabarits de police d'écritures
 
-
+Rédaction en cours
 
