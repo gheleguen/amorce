@@ -4,10 +4,12 @@ edit_uri: -/edit/main/docs/
 
 nav:
     - Introduction: index.md
+    - Fabrication de la toile d'amorce: 1_identification_profil/outils_toile_amorce.md
     - Guide outil de maquettage: 2_maquettage/outils_maquettage.md
     - Templates: 3_templates/templates_doc.md
     - Licence: licence.md
     - Ax. Annexes: 
+      - Conception outil de profilage: 1_identification_profil/notes_conception_toile_amorce.md
       - Conception outil de maquettage: 2_maquettage/notes_conception.md
         
 theme:

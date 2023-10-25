@@ -1,0 +1,35 @@
+# Outils pour définir et visualiser son profil webmaster
+
+
+## 1. La toile
+
+### 1.1 Pour quoi faire ? 
+Cette toile à découper et graver au laser sur bois est un plateau "de jeu" permettant à notre publique (porteur.euse.s de projets et entrepreneur.euse.s) de se questionner sur leurs capacités moyens et envies concernant leur projet de site-web. 
+
+Accompagné d'un questionnaire l'usager sera invité à tracer sa toile puis à la comparer à  celle de solutions pour identifier les solutions qui lui conviendront. 
+
+![decoupe_toile_v1.png](images/decoupe_toile_v1.png)
+
+### 1.2 Matériel
+**Rassembler le matériel suivant : **
+
+|Dénomination|Notes|Quantité|Fournisseur|
+|------|------|------|------|
+|Planche de bois MDF 3mm|Planche de 300mm * 400mm pour chque fichier de découpe|1|Magasin de bricolage|
+|Filament pour impression 3D|Matériau non déterminant|1||
+
+**Outils nécessaire :**
+ - Découpeuse laser (plateau minimum 300*400mm)
+ - Imprimante 3D
+ - Logiciel Inkscape
+ 
+
+### 1.3 Fabrication
+
+ - Vous trouverez le fichiers sources (nommé : "outils_toile_amorce.md") dans le dossier "laser-cuts" se trouvant à la racine de l'archive github.
+ - Découper et graver au laser. Les tracés noir sont à graver en remplissage, le rouge sera à découper, le bleu est destiné à être gravé en "inline" et le vert sera gravé en modifiant les paramètres d'offset pour obtenir un tracé plus large. 
+
+
+
+
+

@@ -28,10 +28,12 @@
  
  - Les dimentions au delà de 300px sont difficile à caser sur le normographe car trop grande. C'est pourquoi j'ai ajouté des graduations pour les dimentions plus grandes. 
  - Voilà un aperçu de ce que cela peu donner
+
 ![normographe carrées](images/normographe_carrees.png)
 
 ### 2.2 Ronds
-Les cercles sont réalisés aux même dimentions que les carrées. 
+Les cercles sont réalisés aux même dimensions que les carrées.
+![normographe carrées](images/normographe_ronds.png) 
 
 ### 2.3 Rectangles
 Dans le web on utilise des rectangls de divers proportions. Même si toutes les dimensions se valent, il est commun d'utiliser quelques proportions courantes de photographie comme par exemple 4:3 ou 16:9. 
