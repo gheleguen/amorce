@@ -3,8 +3,8 @@
 Ces boites sont conçus pour être empilables et surtout modifiable en dimensions. 
 Le fichier ".f3D" permet de modifier les cotes de cette boite. 
 
-![Assemblage_empile.png](images/assemblage_empile.png)
-![assemblage_cote-cote.png](images/assemblage_cote-cote1.png)
+![assemblage_empile.png](images/Assemblage_empile.png)
+![assemblage_cote-cote.png](images/assemblage_cote-cote.png)
 
 
 ## 1. Fabrication
@@ -86,7 +86,7 @@ Dans les fichiers 3d des boites d'amorce, il est possible d'agir sur :
  - Ici on a simplement modifié la hauteur à 200mm. 
 ![Hauteur 200mm](images/hauteur-differente.png)
 
- - Pour importer les surfaces au format ".svg", il faut uiliser un pluggin de fusion. Que  l'on retrouve après installation dans le menu "Utilitaires".
+ - Pour importer les surfaces au format ".svg", il faut uiliser [un pluggin de fusion, "shaper"](https://support.shapertools.com/hc/fr-fr/articles/115002735814-Export-de-fichiers-SVG-depuis-Fusion-360) . Que  l'on retrouve après installation dans le menu "Utilitaires".
 ![Utilitaire svg](images/slice_svg.png)
 
 
