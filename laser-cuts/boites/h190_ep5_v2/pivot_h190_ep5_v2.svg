@@ -1,3 +1,44 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: Fusion 360, Shaper Origin Export Add-In, Version 1.7.0  -->
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:shaper="http://www.shapertools.com/namespaces/shaper" shaper:fusionaddin="version:1.7.0" width="2.78cm" height="2.78cm" version="1.1" x="0cm" y="0cm" viewBox="0 0 2.78 2.78" enable-background="new 0 0 2.78 2.78" xml:space="preserve"><path d="M-1.4498065,0.8178161 a1.39,1.39 0 1,1 2.78,0 a1.39,1.39 0 1,1 -2.78,0z" transform="matrix(1,0,0,-1,1.4498065,2.2078161)" fill="rgb(0,0,0)" stroke-linecap="round" stroke-linejoin="round" /><path d="M0.6068602,0.5678161 L-0.7264732,0.5678161 -0.7264732,1.0678161 0.6068602,1.0678161 0.6068602,0.5678161z" transform="matrix(1,0,0,-1,1.4498065,2.2078161)" fill="rgb(255,255,255)" stroke="rgb(0,0,0)" stroke-width="0.0010cm" stroke-linecap="round" stroke-linejoin="round" /></svg>
+
+<svg
+   shaper:fusionaddin="version:1.7.0"
+   width="2.78cm"
+   height="2.78cm"
+   version="1.1"
+   x="0cm"
+   y="0cm"
+   viewBox="0 0 2.78 2.78"
+   enable-background="new 0 0 2.78 2.78"
+   xml:space="preserve"
+   id="svg6"
+   sodipodi:docname="pivot_h190_ep5_v2.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:shaper="http://www.shapertools.com/namespaces/shaper"><defs
+     id="defs10" /><sodipodi:namedview
+     id="namedview8"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="cm"
+     showgrid="false"
+     inkscape:zoom="7.442596"
+     inkscape:cx="52.468252"
+     inkscape:cy="52.468252"
+     inkscape:window-width="1870"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" /><path
+     id="path4"
+     style="fill:none;stroke:#ff0000;stroke-opacity:1;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+     transform="matrix(1,0,0,-1,1.4498065,2.2078161)"
+     d="m 0.6068602,0.5678161 h -1.3333334 v 0.5 h 1.3333334 z m -2.0566667,0.25 a 1.39,1.39 0 1 1 2.78,0 1.39,1.39 0 1 1 -2.78,0 z" /></svg>

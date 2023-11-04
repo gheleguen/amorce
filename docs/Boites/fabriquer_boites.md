@@ -8,7 +8,7 @@ Le fichier ".f3D" permet de modifier les cotes de cette boite.
 
 
 ## 1. Fabrication
-### 1.2 Matériel
+### 1.1 Matériel
 **Rassembler le matériel suivant : **
 
 |Dénomination|Notes|Quantité|Fournisseur|
@@ -20,20 +20,33 @@ Le fichier ".f3D" permet de modifier les cotes de cette boite.
  - Découpeuse laser (plateau minimum 300*400mm)
  - Logiciel Inkscape
  - Sert-joint
- 
+
+### 1.2 Fichiers de découpes
+Les fichiers de découpes se trouvent dans l'archive au chemin "laser-cuts/boites/"
+On y trouve différents dossiers contenenant les fichiers de découpes classés par dimensions de boites. 
+Par exemple la boite de hauteur 120mm et avec du bois de 5 mm se trouvera dans le dossier "h120_ep5".
+
+Toutes les boites ont une largeur de 420mm et de profondeur de 290mm. Si vous souhaitez réaliser une boite de taille différente, il est possible de modifier les dimensions en se référent à la partie 2 de cette présente documentation. 
+
+Les numéros de pièces ci-dessous seront mentionnés lors de l'assemblage. 
+
+![nomenclature_pieces.png](images/nomenclature_pieces.png)
+![nomenclature_pieces2.png](images/nomenclature_pieces2.png)
+![nomenclature_pieces3.png](images/nomenclature_pieces3.png)
+
 
 ### 1.3 Fabrication
- - Coller les charnières (pièces rondes) sur le coté du couvercle. 
+ - Coller les charnières (8A et 8B) sur le coté du couvercle (5). 
 ![avcollage_couvercle.jpg](images/avcollage_couvercle.jpg)
 ![collage_couvercle.jpg](images/collage_couvercle.jpg)
 
-- Disposer le fond et les cloisons internes comme ceci. 
+- Disposer le fond (6) et les 4 cloisons internes comme ceci (2A, 2B, 3A et 3B). 
 ![avcollage_fond.jpg](images/avcollage_fond.jpg)
 
 - Encoller puis coller les cloisons internes en veillant à disposer de la colles sur toutes les surfaces en contact. 
 ![collage_int.jpg](images/collage_int.jpg)
 
-- Avant de serrer le tout au moyen de sert-joints, coller les parois externes. 
+- Avant de serrer le tout au moyen de sert-joints, coller les parois externes (1A, 1B, 7A, 7B). 
 - Disposer les parois externes comme ceci (Attention à bien veiller à ce que les paroix externes soient disposé symétriquement): 
 ![avcollage_ext.jpg](images/avcollage_ext.jpg)
 
@@ -49,7 +62,8 @@ Le fichier ".f3D" permet de modifier les cotes de cette boite.
 - Serrer le tout avec des sert-joint et/ou des pinces. 
 ![serrage_1.jpg](images/serrage_1.jpg)
 ![serrage_2.jpg](images/serrage_2.jpg)
- 
+
+ - Coller la baguette (4) à l'arrière du couvercle. Elle sert à ratrapper le jour laisser par la système de charnière.  
 
 ## 2. Modifier les côtes
 Le modèle 3D est paramétrique, c'est à dire que toutes les dimensions du dessin sont calculés selon un ensemble de paramètres que l'on peut modifier (à la manière d'un tableur).
@@ -88,11 +102,6 @@ Dans les fichiers 3d des boites d'amorce, il est possible d'agir sur :
 
  - Pour importer les surfaces au format ".svg", il faut uiliser [un pluggin de fusion, "shaper"](https://support.shapertools.com/hc/fr-fr/articles/115002735814-Export-de-fichiers-SVG-depuis-Fusion-360) . Que  l'on retrouve après installation dans le menu "Utilitaires".
 ![Utilitaire svg](images/slice_svg.png)
-
-
-## X. Points à améliorer
- - Numéroter les pièces
- - Finir les fichiers .svg
 
 
 

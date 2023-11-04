@@ -1,3 +1,44 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: Fusion 360, Shaper Origin Export Add-In, Version 1.7.0  -->
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:shaper="http://www.shapertools.com/namespaces/shaper" shaper:fusionaddin="version:1.7.0" width="42cm" height="23cm" version="1.1" x="0cm" y="0cm" viewBox="0 0 42 23" enable-background="new 0 0 42 23" xml:space="preserve"><path d="M-3.03,-7.44 L3.03,-7.44 6.075,-11.5 21,-11.5 21,-4.8333333 20,-4.8333333 20,-1.75 20.5,-1.75 20.5,1.3333333 21,1.3333333 21,7 6,7 6,7.5 3,11.5 -3,11.5 -6,7.5 -6,7 -21,7 -21,1.3333333 -20.5,1.3333333 -20.5,-1.75 -20,-1.75 -20,-4.8333333 -21,-4.8333333 -21,-11.5 -6.075,-11.5 -3.03,-7.44z" transform="matrix(1,0,0,-1,21,11.5)" fill="rgb(0,0,0)" stroke-linecap="round" stroke-linejoin="round" /><path d="M-12,-10.5 L-9,-10.5 -9,-11 -12,-11 -12,-10.5z" transform="matrix(1,0,0,-1,21,11.5)" fill="rgb(255,255,255)" stroke="rgb(0,0,0)" stroke-width="0.0010cm" stroke-linecap="round" stroke-linejoin="round" /><path d="M-18,-10.5 L-15,-10.5 -15,-11 -18,-11 -18,-10.5z" transform="matrix(1,0,0,-1,21,11.5)" fill="rgb(255,255,255)" stroke="rgb(0,0,0)" stroke-width="0.0010cm" stroke-linecap="round" stroke-linejoin="round" /><path d="M15,-10.5 L18,-10.5 18,-11 15,-11 15,-10.5z" transform="matrix(1,0,0,-1,21,11.5)" fill="rgb(255,255,255)" stroke="rgb(0,0,0)" stroke-width="0.0010cm" stroke-linecap="round" stroke-linejoin="round" /><path d="M9,-10.5 L12,-10.5 12,-11 9,-11 9,-10.5z" transform="matrix(1,0,0,-1,21,11.5)" fill="rgb(255,255,255)" stroke="rgb(0,0,0)" stroke-width="0.0010cm" stroke-linecap="round" stroke-linejoin="round" /></svg>
+
+<svg
+   shaper:fusionaddin="version:1.7.0"
+   width="42cm"
+   height="23cm"
+   version="1.1"
+   x="0cm"
+   y="0cm"
+   viewBox="0 0 42 23"
+   enable-background="new 0 0 42 23"
+   xml:space="preserve"
+   id="svg12"
+   sodipodi:docname="face_ext_h190_ep5_v2.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:shaper="http://www.shapertools.com/namespaces/shaper"><defs
+     id="defs16" /><sodipodi:namedview
+     id="namedview14"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="cm"
+     showgrid="false"
+     inkscape:zoom="0.59957464"
+     inkscape:cx="859.77619"
+     inkscape:cy="474.50306"
+     inkscape:window-width="1870"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" /><path
+     id="path10"
+     style="fill:none;stroke:#ff0000;stroke-opacity:1;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+     transform="matrix(1,0,0,-1,21,11.5)"
+     d="m 9,-10.5 h 3 V -11 H 9 Z m 6,0 h 3 V -11 h -3 z m -33,0 h 3 V -11 h -3 z m 6,0 h 3 V -11 h -3 z m 8.97,3.06 H 3.03 L 6.075,-11.5 H 21 v 6.6666667 H 20 V -1.75 h 0.5 V 1.3333333 H 21 V 7 H 6 v 0.5 l -3,4 h -6 l -3,-4 V 7 H -21 V 1.3333333 h 0.5 V -1.75 h 0.5 v -3.0833333 h -1 V -11.5 h 14.925 z" /></svg>
