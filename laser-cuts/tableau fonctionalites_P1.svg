@@ -1,0 +1,891 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="250mm"
+   height="370mm"
+   viewBox="0 0 250 370"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="tableau fonctionalites_P1.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.3826573"
+     inkscape:cx="267.8637"
+     inkscape:cy="252.18387"
+     inkscape:window-width="1870"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="70.852775"
+       y="245.61847"
+       width="360.17949"
+       height="34.756325"
+       id="rect143970" />
+    <rect
+       x="55.752566"
+       y="207.64603"
+       width="328.2599"
+       height="205.334"
+       id="rect130936" />
+    <rect
+       x="70.43645"
+       y="214.43171"
+       width="296.26923"
+       height="80.172263"
+       id="rect120288" />
+    <rect
+       x="450.90844"
+       y="153.35875"
+       width="121.78171"
+       height="95.618444"
+       id="rect25615" />
+    <rect
+       x="439.7627"
+       y="63.972722"
+       width="150.75341"
+       height="217.99847"
+       id="rect5675" />
+    <rect
+       x="439.7627"
+       y="63.972721"
+       width="150.7534"
+       height="217.99847"
+       id="rect5675-5" />
+    <rect
+       x="450.90845"
+       y="153.35875"
+       width="121.78171"
+       height="95.618446"
+       id="rect25615-3" />
+    <rect
+       x="450.90845"
+       y="153.35875"
+       width="121.78171"
+       height="95.618446"
+       id="rect25615-9" />
+    <rect
+       x="439.7627"
+       y="63.972721"
+       width="150.7534"
+       height="217.99847"
+       id="rect5675-1" />
+    <rect
+       x="450.90845"
+       y="153.35875"
+       width="212.48683"
+       height="190.16451"
+       id="rect25615-9-0" />
+    <rect
+       x="439.7627"
+       y="63.972721"
+       width="150.7534"
+       height="217.99847"
+       id="rect5675-1-9" />
+    <rect
+       x="450.90845"
+       y="153.35875"
+       width="208.01788"
+       height="154.8755"
+       id="rect25615-9-06" />
+    <rect
+       x="439.7627"
+       y="63.972721"
+       width="150.7534"
+       height="217.99847"
+       id="rect5675-1-2" />
+    <rect
+       x="716.11237"
+       y="89.152382"
+       width="364.27832"
+       height="131.60484"
+       id="rect116635" />
+    <rect
+       x="55.752567"
+       y="207.64603"
+       width="328.25989"
+       height="205.334"
+       id="rect130936-9" />
+    <rect
+       x="70.852776"
+       y="245.61847"
+       width="360.1795"
+       height="34.756325"
+       id="rect143970-3" />
+    <rect
+       x="55.752567"
+       y="207.64603"
+       width="365.41756"
+       height="206.35236"
+       id="rect130936-9-3" />
+    <rect
+       x="70.852776"
+       y="245.61847"
+       width="360.1795"
+       height="34.756325"
+       id="rect143970-3-6" />
+    <rect
+       x="55.752567"
+       y="207.64603"
+       width="328.25989"
+       height="205.334"
+       id="rect130936-9-6" />
+    <rect
+       x="70.852776"
+       y="245.61847"
+       width="360.1795"
+       height="34.756325"
+       id="rect143970-3-1" />
+    <rect
+       x="55.752567"
+       y="207.64603"
+       width="377.38419"
+       height="198.90939"
+       id="rect130936-9-2" />
+    <rect
+       x="70.852776"
+       y="245.61847"
+       width="360.1795"
+       height="34.756325"
+       id="rect143970-3-0" />
+    <rect
+       x="55.752567"
+       y="207.64603"
+       width="328.25989"
+       height="205.334"
+       id="rect130936-9-5" />
+    <rect
+       x="70.852776"
+       y="245.61847"
+       width="360.1795"
+       height="34.756325"
+       id="rect143970-3-9" />
+    <rect
+       x="55.752567"
+       y="207.64603"
+       width="384.11967"
+       height="202.44686"
+       id="rect130936-9-7" />
+    <rect
+       x="70.852776"
+       y="245.61847"
+       width="360.1795"
+       height="34.756325"
+       id="rect143970-3-3" />
+    <rect
+       x="55.752567"
+       y="207.64603"
+       width="384.11966"
+       height="202.44685"
+       id="rect130936-9-7-9" />
+    <rect
+       x="70.852776"
+       y="245.61847"
+       width="360.1795"
+       height="34.756325"
+       id="rect143970-3-3-3" />
+    <rect
+       x="55.752567"
+       y="207.64603"
+       width="384.11966"
+       height="202.44685"
+       id="rect130936-9-7-3" />
+    <rect
+       x="70.852776"
+       y="245.61847"
+       width="360.1795"
+       height="34.756325"
+       id="rect143970-3-3-6" />
+    <rect
+       x="55.752567"
+       y="207.64603"
+       width="384.11966"
+       height="202.44685"
+       id="rect130936-9-7-2" />
+    <rect
+       x="70.852776"
+       y="245.61847"
+       width="360.1795"
+       height="34.756325"
+       id="rect143970-3-3-0" />
+    <rect
+       x="55.752567"
+       y="207.64603"
+       width="384.11966"
+       height="202.44685"
+       id="rect130936-9-7-5" />
+    <rect
+       x="70.852776"
+       y="245.61847"
+       width="360.1795"
+       height="34.756325"
+       id="rect143970-3-3-4" />
+    <rect
+       x="55.752567"
+       y="207.64603"
+       width="384.11966"
+       height="202.44685"
+       id="rect130936-9-7-93" />
+    <rect
+       x="70.852776"
+       y="245.61847"
+       width="360.1795"
+       height="34.756325"
+       id="rect143970-3-3-7" />
+    <rect
+       x="55.752567"
+       y="207.64603"
+       width="384.11966"
+       height="202.44685"
+       id="rect130936-9-7-54" />
+    <rect
+       x="70.852776"
+       y="245.61847"
+       width="360.1795"
+       height="34.756325"
+       id="rect143970-3-3-74" />
+    <rect
+       x="55.752567"
+       y="207.64603"
+       width="384.11966"
+       height="202.44685"
+       id="rect130936-9-7-8" />
+    <rect
+       x="70.852776"
+       y="245.61847"
+       width="360.1795"
+       height="34.756325"
+       id="rect143970-3-3-68" />
+    <rect
+       x="55.752567"
+       y="207.64603"
+       width="384.11966"
+       height="202.44685"
+       id="rect130936-9-7-4" />
+    <rect
+       x="70.852776"
+       y="245.61847"
+       width="360.1795"
+       height="34.756325"
+       id="rect143970-3-3-9" />
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.102394;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2188"
+       width="220.3976"
+       height="299.89761"
+       x="14.801201"
+       y="54.939678"
+       ry="2.1279917" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.102394;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2188-2-6"
+       width="219.8976"
+       height="20"
+       x="15.051201"
+       y="76.470268"
+       ry="2.1279917" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.102394;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2188-2-6-1"
+       width="219.8976"
+       height="20"
+       x="15.051201"
+       y="98.000854"
+       ry="2.1279917" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.102394;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2188-2-6-1-2"
+       width="219.8976"
+       height="20"
+       x="15.051201"
+       y="119.53143"
+       ry="2.1279917" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.102394;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2188-2-6-1-2-3"
+       width="219.8976"
+       height="20"
+       x="15.051201"
+       y="141.06201"
+       ry="2.1279917" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.102394;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2188-2-6-1-2-3-6"
+       width="219.8976"
+       height="20"
+       x="15.051201"
+       y="162.59259"
+       ry="2.1279917" />
+    <g
+       id="g103672"
+       transform="translate(-0.29671144)">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,4.8782193,109.28243)"
+         id="text130934-9-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;line-height:44.3292px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect130936-9-7);fill:#000000;fill-opacity:1;stroke:none"><tspan
+           x="55.751953"
+           y="238.83085"
+           id="tspan1229"><tspan
+             style="font-family:ubuntu;-inkscape-font-specification:ubuntu"
+             id="tspan1227">Portfolio</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,1.2635963,108.3215)"
+         id="text143968-4-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:28.2095px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect143970-3-3);fill:#000000;fill-opacity:1;stroke:none"><tspan
+           x="70.853516"
+           y="265.46376"
+           id="tspan1233"><tspan
+             style="font-family:ubuntu;-inkscape-font-specification:ubuntu"
+             id="tspan1231">Galerie d'images</tspan></tspan></text>
+    </g>
+    <g
+       id="g103693"
+       transform="translate(-2.4916775)">
+      <g
+         id="g104742">
+        <text
+           xml:space="preserve"
+           transform="matrix(0.26458333,0,0,0.26458333,7.6785513,130.43674)"
+           id="text130934-9-1-9"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;line-height:44.3292px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect130936-9-7-9);fill:#000000;fill-opacity:1;stroke:none"><tspan
+             x="55.751953"
+             y="238.83085"
+             id="tspan1237"><tspan
+               style="font-family:ubuntu;-inkscape-font-specification:ubuntu"
+               id="tspan1235">Afficheur de PDF</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.26458333,0,0,0.26458333,3.3202732,129.47581)"
+           id="text143968-4-2-4"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:28.2095px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect143970-3-3-3);fill:#000000;fill-opacity:1;stroke:none"><tspan
+             x="70.853516"
+             y="265.46376"
+             id="tspan1241"><tspan
+               style="font-family:ubuntu;-inkscape-font-specification:ubuntu"
+               id="tspan1239">Pouvoir lire un pdf depuis une page web</tspan></tspan></text>
+      </g>
+    </g>
+    <path
+       style="fill:none;stroke:#00ff00;stroke-width:0.856;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 114.85957,354.8212 V 24.821203"
+       id="path2831"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#00ff00;stroke-width:0.856;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 144.84475,354.8212 V 24.821199"
+       id="path2831-8"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#00ff00;stroke-width:0.856;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 174.82992,354.8212 V 24.821196"
+       id="path2831-8-9"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#00ff00;stroke-width:0.906597;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 234.80026,56.771853 V 25"
+       id="path2831-3" />
+    <g
+       id="g100437"
+       transform="translate(-1.3821715,-10.740836)">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,3.3938023,21.337077)"
+         id="text5673"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:32.2394px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5675);fill:#000000;fill-opacity:1;stroke:none"><tspan
+           x="439.76172"
+           y="86.366342"
+           id="tspan1243">Tech n°1 
+</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,0.20332862,6.4905627)"
+         id="text25613"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:27.7058px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect25615);fill:#000000;fill-opacity:1;stroke:none"><tspan
+           x="450.9082"
+           y="175.05478"
+           id="tspan1247"><tspan
+             style="font-weight:800;-inkscape-font-specification:'Montserrat Ultra-Bold'"
+             id="tspan1245">HTML
+</tspan></tspan><tspan
+           x="450.9082"
+           y="202.76057"
+           id="tspan1251"><tspan
+             style="font-weight:800;-inkscape-font-specification:'Montserrat Ultra-Bold'"
+             id="tspan1249">CSS</tspan></tspan></text>
+    </g>
+    <g
+       id="g87183"
+       transform="translate(-1.3821715,-5.431559)">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,33.371802,16.0278)"
+         id="text5673-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:32.2394px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5675-1);fill:#000000;fill-opacity:1;stroke:none"><tspan
+           x="439.76172"
+           y="86.366342"
+           id="tspan1253">Tech n°2 
+</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,30.181328,1.1812856)"
+         id="text25613-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:27.7058px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect25615-9);fill:#000000;fill-opacity:1;stroke:none"><tspan
+           x="450.9082"
+           y="175.05478"
+           id="tspan1257"><tspan
+             style="font-weight:800;-inkscape-font-specification:'Montserrat Ultra-Bold'"
+             id="tspan1255">CMS</tspan></tspan></text>
+    </g>
+    <g
+       id="g87189"
+       transform="translate(-1.3821715,-10.09464)">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,92.889937,20.690881)"
+         id="text5673-2-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:32.2394px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5675-1-2);fill:#000000;fill-opacity:1;stroke:none"><tspan
+           x="439.76172"
+           y="86.366342"
+           id="tspan1259">Tech n°3 
+</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,89.699457,5.8443668)"
+         id="text25613-7-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:27.7058px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect25615-9-06);fill:#000000;fill-opacity:1;stroke:none"><tspan
+           x="450.9082"
+           y="175.05478"
+           id="tspan1263"><tspan
+             style="font-weight:800;-inkscape-font-specification:'Montserrat Ultra-Bold'"
+             id="tspan1261">Presta-
+</tspan></tspan><tspan
+           x="450.9082"
+           y="202.76057"
+           id="tspan1267"><tspan
+             style="font-weight:800;-inkscape-font-specification:'Montserrat Ultra-Bold'"
+             id="tspan1265">tion</tspan></tspan></text>
+    </g>
+    <g
+       id="g72197"
+       transform="translate(-1.3821715,-8.842502)">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,63.349802,19.438743)"
+         id="text5673-2-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:32.2394px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5675-1-9);fill:#000000;fill-opacity:1;stroke:none"><tspan
+           x="439.76172"
+           y="86.366342"
+           id="tspan1269">Tech n°3 
+</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,60.397806,4.5922288)"
+         id="text25613-7-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:24.9352px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect25615-9-0);fill:#000000;fill-opacity:1;stroke:none"><tspan
+           x="450.9082"
+           y="172.88522"
+           id="tspan1273"><tspan
+             style="font-weight:800;-inkscape-font-specification:'Montserrat Ultra-Bold'"
+             id="tspan1271">Plate-
+</tspan></tspan><tspan
+           x="450.9082"
+           y="197.82042"
+           id="tspan1277"><tspan
+             style="font-weight:800;-inkscape-font-specification:'Montserrat Ultra-Bold'"
+             id="tspan1275">formes</tspan></tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-179.49986,-14.375494)"
+       id="text116633"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:32.2394px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect116635);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="716.11328"
+         y="113.11455"
+         id="tspan1283"><tspan
+           style="font-weight:bold;font-size:26.6667px;-inkscape-font-specification:'Montserrat Bold'"
+           id="tspan1279">Table des fonctionnalités</tspan><tspan
+           style="font-weight:bold;-inkscape-font-specification:'Montserrat Bold'"
+           id="tspan1281">
+</tspan></tspan><tspan
+         x="716.11328"
+         y="145.35395"
+         id="tspan1287"><tspan
+           style="font-weight:bold;-inkscape-font-specification:'Montserrat Bold'"
+           id="tspan1285">
+</tspan></tspan><tspan
+         x="716.11328"
+         y="177.59335"
+         id="tspan1289">Utilisez les bandes de fonctions </tspan><tspan
+         x="716.11328"
+         y="209.83274"
+         id="tspan1291">pour lister vos besoins 
+</tspan><tspan
+         x="716.11328"
+         y="242.07214"
+         id="tspan1293">
+</tspan></text>
+    <path
+       style="fill:none;stroke:#00ff00;stroke-width:0.856;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 204.81508,354.8212 V 24.821204"
+       id="path2831-8-73"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text120286"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333337px;line-height:44.3291px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect120288);fill:#000000;fill-opacity:1;stroke:none" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.102394;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2188-2"
+       width="219.8976"
+       height="20"
+       x="15.051201"
+       y="55.251198"
+       ry="2.1279917" />
+    <g
+       id="g103576"
+       transform="translate(1.3443348)">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,3.4544839,1.6363531)"
+         id="text130934"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;line-height:44.3292px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect130936);fill:#000000;fill-opacity:1;stroke:none"><tspan
+           x="55.751953"
+           y="238.83085"
+           id="tspan1297"><tspan
+             style="font-family:ubuntu;-inkscape-font-specification:ubuntu"
+             id="tspan1295">Coordonnées en claire</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,-0.51573908,0.67542652)"
+         id="text143968"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:28.2095px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect143970);fill:#000000;fill-opacity:1;stroke:none"><tspan
+           x="70.853516"
+           y="265.46376"
+           id="tspan1301"><tspan
+             style="font-family:ubuntu;-inkscape-font-specification:ubuntu"
+             id="tspan1299">Identité, email, adresse... visible</tspan></tspan></text>
+    </g>
+    <g
+       id="g103590"
+       transform="translate(1.6443359)">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,3.1544828,22.791219)"
+         id="text130934-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;line-height:44.3292px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect130936-9);fill:#000000;fill-opacity:1;stroke:none"><tspan
+           x="55.751953"
+           y="238.83085"
+           id="tspan1305"><tspan
+             style="font-family:ubuntu;-inkscape-font-specification:ubuntu"
+             id="tspan1303">Cartographie</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,-0.81574018,21.830292)"
+         id="text143968-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:28.2095px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect143970-3);fill:#000000;fill-opacity:1;stroke:none"><tspan
+           x="70.853516"
+           y="265.46376"
+           id="tspan1309"><tspan
+             style="font-family:ubuntu;-inkscape-font-specification:ubuntu"
+             id="tspan1307">Localiser un point ou une zone</tspan></tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,4.5815078,47.771055)"
+       id="text130934-9-7"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;line-height:44.3292px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect130936-9-6);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="55.751953"
+         y="238.83085"
+         id="tspan1313"><tspan
+           style="font-family:ubuntu;-inkscape-font-specification:ubuntu"
+           id="tspan1311">Formulaire de contact</tspan></tspan></text>
+    <g
+       id="g103622"
+       transform="translate(0.49270444)">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,4.0888034,65.689753)"
+         id="text130934-9-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;line-height:44.3292px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect130936-9-2);fill:#000000;fill-opacity:1;stroke:none"><tspan
+           x="55.751953"
+           y="238.83085"
+           id="tspan1317"><tspan
+             style="font-family:ubuntu;-inkscape-font-specification:ubuntu"
+             id="tspan1315">Liens vers messagerie</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,0.62234735,64.728826)"
+         id="text143968-4-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:28.2095px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect143970-3-0);fill:#000000;fill-opacity:1;stroke:none"><tspan
+           x="70.853516"
+           y="265.46376"
+           id="tspan1321"><tspan
+             style="font-family:ubuntu;-inkscape-font-specification:ubuntu"
+             id="tspan1319">Whatsapp, messenger, signal ...</tspan></tspan></text>
+    </g>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.102394;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2188-2-6-1-2-3-7"
+       width="219.8976"
+       height="20"
+       x="15.051201"
+       y="184.1232"
+       ry="2.1279917" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.102394;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2188-2-6-1-2-3-7-5"
+       width="219.8976"
+       height="20"
+       x="15.051201"
+       y="205.65378"
+       ry="2.1279917" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.102394;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2188-2-6-1-2-3-7-3"
+       width="219.8976"
+       height="20"
+       x="15.051201"
+       y="227.18436"
+       ry="2.1279917" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.102394;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2188-2-6-1-2-3-7-56"
+       width="219.8976"
+       height="20"
+       x="15.051201"
+       y="248.71494"
+       ry="2.1279917" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.102394;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2188-2-6-1-2-3-7-2"
+       width="219.8976"
+       height="20"
+       x="15.051201"
+       y="270.24554"
+       ry="2.1279917" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.102394;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2188-2-6-1-2-3-7-2-2"
+       width="219.8976"
+       height="20"
+       x="15.051201"
+       y="291.77612"
+       ry="2.1279917" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.102394;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2188-2-6-1-2-3-7-2-2-9"
+       width="219.8976"
+       height="20"
+       x="15.051201"
+       y="313.30673"
+       ry="2.1279917" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.102394;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2188-2-6-1-2-3-7-2-2-0"
+       width="219.8976"
+       height="20"
+       x="15.051201"
+       y="334.05121"
+       ry="2.1279917" />
+    <g
+       id="g103643"
+       transform="translate(0.42747074)">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,4.1540371,87.375554)"
+         id="text130934-9-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;line-height:44.3292px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect130936-9-5);fill:#000000;fill-opacity:1;stroke:none"><tspan
+           x="55.751953"
+           y="238.83085"
+           id="tspan1325"><tspan
+             style="font-family:ubuntu;-inkscape-font-specification:ubuntu"
+             id="tspan1323">Bouton réseaux sociaux</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,0.786359,86.414627)"
+         id="text143968-4-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:28.2095px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect143970-3-9);fill:#000000;fill-opacity:1;stroke:none"><tspan
+           x="70.853516"
+           y="265.46376"
+           id="tspan1329"><tspan
+             style="font-family:ubuntu;-inkscape-font-specification:ubuntu"
+             id="tspan1327">Accès à une page ou un compte...</tspan></tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,4.7988187,154.74488)"
+       id="text130934-9-1-6"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;line-height:44.3292px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect130936-9-7-3);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="55.751953"
+         y="238.83085"
+         id="tspan1333"><tspan
+           style="font-family:ubuntu;-inkscape-font-specification:ubuntu"
+           id="tspan1331">Questionnaire en ligne</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,2.9208032,151.80003)"
+       id="text143968-4-2-3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:28.2095px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect143970-3-3-6);fill:#000000;fill-opacity:1;stroke:none" />
+    <g
+       id="g41803-6"
+       transform="translate(-7.0549726,176.60466)">
+      <g
+         id="g56031"
+         transform="translate(7.4195632,0.34601939)">
+        <text
+           xml:space="preserve"
+           transform="matrix(0.26458333,0,0,0.26458333,4.4342281,0)"
+           id="text130934-9-1-1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;line-height:44.3292px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect130936-9-7-2);fill:#000000;fill-opacity:1;stroke:none"><tspan
+             x="55.751953"
+             y="238.83085"
+             id="tspan1337"><tspan
+               style="font-family:ubuntu;-inkscape-font-specification:ubuntu"
+               id="tspan1335">Grille de tarifs</tspan></tspan></text>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,4.7988187,197.81768)"
+       id="text130934-9-1-65"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;line-height:44.3292px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect130936-9-7-5);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="55.751953"
+         y="238.83085"
+         id="tspan1341"><tspan
+           style="font-family:ubuntu;-inkscape-font-specification:ubuntu"
+           id="tspan1339">Grille de prestations</tspan></tspan></text>
+    <g
+       id="g103723"
+       transform="translate(-1.6625541)">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,6.8494279,216.56649)"
+         id="text130934-9-1-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;line-height:44.3292px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect130936-9-7-93);fill:#000000;fill-opacity:1;stroke:none"><tspan
+           x="55.751953"
+           y="238.83085"
+           id="tspan1345"><tspan
+             style="font-family:ubuntu;-inkscape-font-specification:ubuntu"
+             id="tspan1343">Accordéon</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,2.629439,215.60556)"
+         id="text143968-4-2-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:28.2095px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect143970-3-3-7);fill:#000000;fill-opacity:1;stroke:none"><tspan
+           x="70.853516"
+           y="265.46376"
+           id="tspan1349"><tspan
+             style="font-family:ubuntu;-inkscape-font-specification:ubuntu"
+             id="tspan1347">Contenu dans un boite dépliable</tspan></tspan></text>
+    </g>
+    <g
+       id="g103737"
+       transform="translate(-4.7798701)">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,9.3613779,238.09707)"
+         id="text130934-9-1-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;line-height:44.3292px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect130936-9-7-54);fill:#000000;fill-opacity:1;stroke:none"><tspan
+           x="55.751953"
+           y="238.83085"
+           id="tspan1353"><tspan
+             style="font-family:ubuntu;-inkscape-font-specification:ubuntu"
+             id="tspan1351">Frise chronologique</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,5.6084658,237.13614)"
+         id="text143968-4-2-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:28.2095px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect143970-3-3-74);fill:#000000;fill-opacity:1;stroke:none"><tspan
+           x="70.853516"
+           y="265.46376"
+           id="tspan1357"><tspan
+             style="font-family:ubuntu;-inkscape-font-specification:ubuntu"
+             id="tspan1355">Parcours, CV, référence, expo...</tspan></tspan></text>
+    </g>
+    <g
+       id="g103758"
+       transform="translate(-2.4617294)">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,7.0432373,259.62768)"
+         id="text130934-9-1-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;line-height:44.3292px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect130936-9-7-8);fill:#000000;fill-opacity:1;stroke:none"><tspan
+           x="55.751953"
+           y="238.83085"
+           id="tspan1361"><tspan
+             style="font-family:ubuntu;-inkscape-font-specification:ubuntu"
+             id="tspan1359">Boutique en ligne</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,3.4286143,258.66675)"
+         id="text143968-4-2-31"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:28.2095px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect143970-3-3-68);fill:#000000;fill-opacity:1;stroke:none"><tspan
+           x="70.853516"
+           y="265.46376"
+           id="tspan1365"><tspan
+             style="font-family:ubuntu;-inkscape-font-specification:ubuntu"
+             id="tspan1363">Grille de produits / Produit unique</tspan></tspan></text>
+    </g>
+    <g
+       id="g41803-2"
+       transform="translate(0.36459064,280.37216)">
+      <g
+         id="g103554">
+        <text
+           xml:space="preserve"
+           transform="matrix(0.26458333,0,0,0.26458333,4.2169172,0)"
+           id="text130934-9-1-06"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;line-height:44.3292px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect130936-9-7-4);fill:#000000;fill-opacity:1;stroke:none"><tspan
+             x="55.751953"
+             y="238.83085"
+             id="tspan1369"><tspan
+               style="font-family:ubuntu;-inkscape-font-specification:ubuntu"
+               id="tspan1367">Document à télécharger</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.26458333,0,0,0.26458333,0.46400512,-0.96092658)"
+           id="text143968-4-2-8"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:28.2095px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect143970-3-3-9);fill:#000000;fill-opacity:1;stroke:none"><tspan
+             x="70.853516"
+             y="265.46376"
+             id="tspan1373"><tspan
+               style="font-family:ubuntu;-inkscape-font-specification:ubuntu"
+               id="tspan1371">Plaquette, Menu, Kit presse...</tspan></tspan></text>
+      </g>
+    </g>
+    <rect
+       style="fill:none;stroke:#ff0000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1032"
+       width="249.89999"
+       height="369.89999"
+       x="0.050000001"
+       y="0.050000001"
+       ry="10" />
+  </g>
+</svg>
